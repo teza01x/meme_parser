@@ -1,7 +1,7 @@
 import os
 
 
-telegram_token = "6041412067:AAFUKqVZQuh9sXWxp5_ZZbADmz7gyg1fDlc"
+telegram_token = ""
 
 data_base = os.path.join(os.path.dirname(__file__), 'database.db')
 
@@ -13,8 +13,8 @@ target_hour_fetch_memes = 6
 max_length_of_memes = 50
 
 
-judges_group = -1001817541503
-channel_to_post = -1001817541503
+judges_group = -1111111
+channel_to_post = -111111
 
 image_dir_path = "memes/"
 fetch_count = 50
